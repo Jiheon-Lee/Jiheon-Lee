@@ -4,7 +4,7 @@ I'm Lee Jiheon. I am a software engineer. I think the invisible is more attracti
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to watch movie / drama
 
-![Jiheon-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiheon-Lee&count_private=true&show_icons=true)
+[![Jiheon-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiheon-Lee&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
