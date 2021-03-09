@@ -8,10 +8,10 @@ I'm Lee Jiheon. I am a software engineer. I think the invisible is more attracti
 
 ### Connect with me:
 
-[<img align="left" alt="theteamlab.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://theteamlab.io/)
-[<img align="left" alt="Jiheon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/2zheon)
-[<img align="left" alt="Jiheon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/2z__heon/)
-[<img align="left" alt="Jiheon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCAFyIs7aqPcvMyYSRPu6lqw?view_as=subscriber)
+[<img align="left" alt="Jiheon | Notion" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://jiheon-lee.github.io/)
+[<img align="left" alt="Jiheon | Notion" width="25px" src="https://user-images.githubusercontent.com/48443734/89675826-9086eb80-d925-11ea-9f8c-0638331b34cc.png" />](https://www.notion.so/Jiheon-Lee-3b31c0a5c892414ba8c024d21ef30cd0)
+[<img align="left" alt="Jiheon | YouTube" width="33px" src="https://user-images.githubusercontent.com/48443734/110476094-f4c09680-8124-11eb-9661-1f9b9df03346.png" />](https://www.youtube.com/channel/UCAFyIs7aqPcvMyYSRPu6lqw?view_as=subscriber)
+[<img align="left" alt="TEAMLAB" width="33px" src="https://user-images.githubusercontent.com/48443734/110476278-246f9e80-8125-11eb-8810-fa629a044034.jpg" />](http://theteamlab.io/)
 
 <br />
 
