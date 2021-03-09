@@ -35,11 +35,3 @@ I'm Lee Jiheon. I am a software engineer. I think the invisible is more attracti
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-
-<br /><br />
-
-### Collaboration tool:
-
-<img align="left" width="28px" src="https://user-images.githubusercontent.com/48443734/89675826-9086eb80-d925-11ea-9f8c-0638331b34cc.png" />
-<img align="left" width="82px" src="https://user-images.githubusercontent.com/48443734/89676152-199e2280-d926-11ea-84c6-d27a6904ab75.png" />
-<img align="left" width="82px" src="https://user-images.githubusercontent.com/48443734/89676150-173bc880-d926-11ea-9caa-d8961fae43ee.png" />
