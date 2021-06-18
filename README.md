@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Lee Jiheon. I am a software engineer. I think the invisible is more attractive.
+I'm Lee Jiheon. I am a Backend Developer. I think the invisible is more attractive.
 - 🔭 I'm currently working on [TEAMLAB](https://github.com/TEAMLAB).
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to watch movie / drama
